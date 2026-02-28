@@ -1,0 +1,21 @@
+# Environment artifacts
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.virtual_documents/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local data / Internal files
+about_dataset.txt
+check_deps.py
+check_data.py
+reproduce_error.py
+debug_shap.py
+restore_notebook.py
+update_notebook.py
+data_exploration.py
+exploratory_script.py.py
+LinkedIn_Post.txt
