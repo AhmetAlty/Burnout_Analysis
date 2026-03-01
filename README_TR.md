@@ -1,4 +1,6 @@
 # Teknik Proje: Uzaktan Çalışma Tükenmişlik Analizi ve Tahmini
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AhmetAlty/Burnout_Analysis/blob/main/Burnout_Analysis.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/AhmetAlty/Burnout_Analysis/blob/main/Burnout_Analysis.ipynb)
 
 > [!NOTE]
 > Bu proje **Antigravity AI** aracılığıyla hazırlanmıştır.  
